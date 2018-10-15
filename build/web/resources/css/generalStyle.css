@@ -48,3 +48,35 @@ and open the template in the editor.
 .btnHover{
     background: rgb(1, 45, 18);
 }
+
+.panelLog {
+    /*background-color: rgba(0, 90, 0, .9);*/
+    background-color: hsla(105, 27%, 74%, .8);
+    align-items: center;
+    align-content: center;
+    border-radius: 10%;
+}
+
+.inp {
+    height: 25px;
+    width: 80%;
+    margin-left: 20px;
+}
+
+.tituloP {
+    align-self: center;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 60px;
+    color: rgb(55, 107, 1);
+}
+
+.btnL {
+    height: 30px;
+    width: 80px;
+    background: #FFF;
+    border: none;
+    border-radius: 4px;
+    font-weight: bold;
+    color: rgb(55, 107, 1);
+}
